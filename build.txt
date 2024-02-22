@@ -1,0 +1,8 @@
+displayName = Cellphone Portal
+author = NotLe0n
+version = 1.1.1
+homepage = https://github.com/NotLe0n/CellphonePortal
+hideCode = false
+hideResources = false
+includeSource = false
+buildIgnore = vs/*, *.csproj, *.sln, *.pidb, *.userprefs, *.user, obj/*, bin/*

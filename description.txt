@@ -1,0 +1,1 @@
+This mod changes the Cellphone and Shellphone item to create a portal when you teleport, just like the "Potion of Return".
